@@ -1,0 +1,1 @@
+# netology_lesson1_store_func
